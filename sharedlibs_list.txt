@@ -1,0 +1,19 @@
+# A dictionary of "shared library" paths that can be accessed through this module. The key is the string you will use to reference the library when calling add_path_for.
+
+animated_image_view=/UI/Views/AnimatedImageView
+brightness=/Utils/ColorBrightness
+button_plus=/UI/Views/ButtonPlus
+comparators=/Utils/Comparators
+config_file=/Utils/ConfigFile
+csv=/Utils/CsvFile
+dice=/Libs/GameLibs/Dice
+die_view=/UI/Views/DieView
+hold_button=/UI/Views/HoldButton
+img_utils=/Utils/ImageUtils
+key_flex_view=/UI/Views/KeyFlexView
+keyboard_view=/UI/Views/Keyboard
+list_selector=/UI/Views/ListSelector
+perm_utils=/Utils/PermutationUtils
+ui_drag=/UI/Draggable
+view_swap=/UI/ViewSwap
+word_utils=/Utils/WordUtils
