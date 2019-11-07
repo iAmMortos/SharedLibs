@@ -31,6 +31,7 @@ def list():
 		
 def _load_libs_dict():
 	d = {}
+	print(__file__)
 	libs_path = '%s/sharedlibs_list.txt' % '/'.join(__file__.split('/')[:-1])
 	
 	with open(libs_path) as f:
